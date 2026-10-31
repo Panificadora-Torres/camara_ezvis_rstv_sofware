@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Ver Cámara EZVIZ (UPTXPQ)
+Comment=Abre la transmisión RTSP en vivo de la cámara EZVIZ local
+Exec=/home/daniel/Desktop/camara_ezvis_rstv/ver_camara.sh main
+Icon=camera-video
+Terminal=false
+Categories=AudioVideo;Video;Player;

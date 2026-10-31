@@ -1,0 +1,18 @@
+# Grabaciones y capturas locales
+grabaciones/
+recuperados/
+capturas/
+*.mp4
+*.ts
+*.mkv
+*.jpg
+
+# Logs, PID y entorno virtual
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+nvr.log
+nvr.pid
+nvr_settings.json
+camara_config.json
